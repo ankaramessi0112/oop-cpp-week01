@@ -3,7 +3,7 @@
 int main() {
     std::string name = "Khang";
     int age = 19;
-    int gpa = 8;
+    double gpa = 8;
     std::cout <<"Hello, my name is Khang!" << std::endl;
     std::cout <<"Welcome to OOP with C++.."<< std::endl;
 
@@ -20,7 +20,7 @@ int main() {
     std::cout <<"My goal: Become a software engineer \n";
     std::cout <<"My message: The thao la ko ngung bo cuoc \n";
     std::cout << "=====================\n";
-    std::cout <<"   KEEP CODING !!!! \n";
+    std::cout <<"   KEEP CODING !!! \n";
     std::cout << "=====================\n";
     return 0;
 } 
