@@ -15,7 +15,7 @@ int main() {
     std::cout <<"My goal: Become a software engineer \n";
     std::cout <<"My message: The thao la ko ngung bo cuoc \n";
     std::cout << "=====================\n";
-    std::cout <<"   KEEP CODING !!! \n";
+    std::cout <<"   KEEP CODING !!!!!!! \n";
     std::cout << "=====================\n";
     return 0;
 } 
