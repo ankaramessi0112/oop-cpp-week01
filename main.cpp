@@ -1,18 +1,13 @@
 #include <iostream>
 
 int main() {
-    std::string name = "Khang";
-    int age = 19;
-    double gpa = 8;
     std::cout <<"Hello, my name is Khang!" << std::endl;
     std::cout <<"Welcome to OOP with C++.."<< std::endl;
 
     std::cout << "=====================\n";
     std::cout <<"   MY FRIST C++ APP   \n";
     std::cout << "=====================\n";
-    std::cout << "Name: " << name << "\n";
-    std::cout << "Age: " << age << "\n";
-    std::cout << "GPA: " << gpa << "\n";
+    std::cout << "Name: Khang\n";
     std::cout << "Course: OOP with C++\n";
     std::cout << "School: HCMUTE\n \n";
 
